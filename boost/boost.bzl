@@ -117,5 +117,5 @@ def boost_deps():
         patch_args = ["-p1"],
         url = "https://archives.boost.io/release/1.84.0/source/boost_1_84_0.tar.gz",
         sha256 = "a5800f405508f5df8114558ca9855d2640a2de8f0445f051fa1c7c3383045724",
-        strip_prefix = "boost-1_84_0",
+        strip_prefix = "boost_1_84_0",
     )
