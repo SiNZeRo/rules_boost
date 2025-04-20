@@ -116,6 +116,6 @@ def boost_deps():
         patches = ["@com_github_nelhage_rules_boost//:zlib.patch"],
         patch_args = ["-p1"],
         url = "https://archives.boost.io/release/1.84.0/source/boost_1_84_0.tar.gz",
-        sha256 = "4d27e9efed0f6f152dc28db6430b9d3dfb40c0345da7342eaa5a987dde57bd95",
+        sha256 = "a5800f405508f5df8114558ca9855d2640a2de8f0445f051fa1c7c3383045724",
         strip_prefix = "boost-1.84.0",
     )
